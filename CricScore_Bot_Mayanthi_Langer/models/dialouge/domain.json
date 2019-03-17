@@ -1,0 +1,17 @@
+{
+  "features": [
+    "intent_greet",
+    "intent_goodbye",
+    "intent_inform",
+    "entity_match_between",
+    "entity_matches",
+    "slot_match_between_0",
+    "slot_matches_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_action_match",
+    "prev_action_score"
+  ]
+}

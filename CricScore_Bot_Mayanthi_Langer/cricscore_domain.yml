@@ -1,0 +1,33 @@
+slots:
+  match_between:
+    type: text
+  matches:
+    type: text
+
+
+intents:
+ - greet
+ - goodbye
+ - inform
+
+
+entities:
+ - match_between
+ - matches
+
+templates:
+  utter_greet:
+    - 'Hello! How Can I help you?'
+    - 'Hi, Welcome to My PlayGround!!'
+  utter_goodbye:
+    - 'Nice talking to you!!'
+    - 'Have a nice day.'
+    - 'Bye :('
+    - 'Talk to you later!! Good Day!!'
+
+
+actions:
+ - utter_greet
+ - utter_goodbye
+ - actions.ActionMatch
+ - actions.ActionScore

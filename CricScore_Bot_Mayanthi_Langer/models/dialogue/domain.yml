@@ -1,0 +1,37 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- action_match
+- action_score
+actions:
+- utter_greet
+- utter_goodbye
+- actions.ActionMatch
+- actions.ActionScore
+config:
+  store_entities_as_slots: true
+entities:
+- match_between
+- matches
+intents:
+- greet
+- goodbye
+- inform
+slots:
+  match_between:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  matches:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_goodbye:
+  - text: Nice talking to you!!
+  - text: Have a nice day.
+  - text: Bye :(
+  - text: Talk to you later!! Good Day!!
+  utter_greet:
+  - text: Hello! How Can I help you?
+  - text: Hi, Welcome to My PlayGround!!
+topics: []

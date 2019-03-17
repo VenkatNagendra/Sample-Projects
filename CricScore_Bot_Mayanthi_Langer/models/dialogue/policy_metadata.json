@@ -1,0 +1,26 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "match_between"
+      ]
+    },
+    "action_match": {
+      "slots": [
+        "matches"
+      ]
+    },
+    "action_score": {
+      "slots": [
+        "match_between"
+      ]
+    }
+  },
+  "rasa_core": "0.8.5",
+  "max_history": 3,
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}
