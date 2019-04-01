@@ -36,7 +36,7 @@ classifier.add(Flatten())
 
 # Step 4 - Full connection
 classifier.add(Dense(units = 128, activation = 'relu'))
-classifier.add(Dense(units = 3, activation = 'sigmoid'))
+classifier.add(Dense(units = 4, activation = 'sigmoid'))
 
 # Compiling the CNN
 classifier.compile(optimizer = 'adam', loss = 'binary_crossentropy', metrics = ['accuracy'])
@@ -52,12 +52,12 @@ train_datagen = ImageDataGenerator(rescale = 1./255,
 
 test_datagen = ImageDataGenerator(rescale = 1./255)
 #E:/DataScience/Projects/Keras_CNN_Classification/Cats_Dogs/PetImages
-training_set = train_datagen.flow_from_directory('E:/DataScience/Projects/Keras_CNN_Classification/Cats_Dogs/PetImages',
+training_set = train_datagen.flow_from_directory('E:/DataScience/Projects/Keras_CNN_Classification/Person_Classification/Images',
                                                  target_size = (64, 64),
                                                  batch_size = 32
                                                  )
 
-test_set = test_datagen.flow_from_directory('E:/DataScience/Projects/Keras_CNN_Classification/Cats_Dogs/PetImages',
+test_set = test_datagen.flow_from_directory('E:/DataScience/Projects/Keras_CNN_Classification/Person_Classification/Images',
                                             target_size = (64, 64),
                                             batch_size = 32
                                             )
@@ -72,8 +72,20 @@ classifier.fit_generator(training_set,
 
 import numpy as np
 from keras.preprocessing import image
-test_image = image.load_img('dataset/single_prediction/cat_or_dog_1.jpg', target_size = (64, 64))
+import matplotlib.pyplot as plt 
+test_image = image.load_img('E:/DataScience/Projects/Keras_CNN_Classification/Person_Classification/venkat.jpg', target_size = (64, 64))
+plt.imshow(test_image)
 test_image = image.img_to_array(test_image)
 test_image = np.expand_dims(test_image, axis = 0)
 result = classifier.predict(test_image)
-print(training_set.class_indices)
+#print(training_set.class_indices)
+if result[0][0] == 1:
+    print("Hemanth")
+elif result[0][1] == 1:
+    print("Lokesh")
+elif result[0][2] ==1:
+    print("Ramesh")
+elif result[0][3]==1:
+    print("Venkat")
+else:
+    print("Alien")
