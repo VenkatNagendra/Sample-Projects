@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>27a205df-49f4-475d-9ae2-4cdf6d39c450___beautiful-girl-sun-glasses-helmet-260nw-649525108.jpg</filename>
+	<path>C:\helmet\27a205df-49f4-475d-9ae2-4cdf6d39c450___beautiful-girl-sun-glasses-helmet-260nw-649525108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>11</ymin>
+			<xmax>154</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

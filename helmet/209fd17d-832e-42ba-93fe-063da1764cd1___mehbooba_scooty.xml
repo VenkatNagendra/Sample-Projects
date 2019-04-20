@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>209fd17d-832e-42ba-93fe-063da1764cd1___mehbooba_scooty.jpg</filename>
+	<path>C:\helmet\209fd17d-832e-42ba-93fe-063da1764cd1___mehbooba_scooty.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>70</ymin>
+			<xmax>325</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

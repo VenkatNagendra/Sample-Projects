@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>46f3d094-0773-4104-bccb-ca9fdae11a1b___cycling-cap-forward-down-with-helmet.jpg</filename>
+	<path>C:\helmet\46f3d094-0773-4104-bccb-ca9fdae11a1b___cycling-cap-forward-down-with-helmet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>31</ymin>
+			<xmax>463</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

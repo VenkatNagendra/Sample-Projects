@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>f3b7ef2a-bd35-424a-843e-56cdfc7e7e5d___TVS-Jupiter-1.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\f3b7ef2a-bd35-424a-843e-56cdfc7e7e5d___TVS-Jupiter-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>2</ymin>
+			<xmax>300</xmax>
+			<ymax>55</ymax>
+		</bndbox>
+	</object>
+</annotation>

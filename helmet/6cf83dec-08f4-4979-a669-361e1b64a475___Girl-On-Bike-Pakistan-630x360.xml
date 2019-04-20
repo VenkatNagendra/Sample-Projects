@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>6cf83dec-08f4-4979-a669-361e1b64a475___Girl-On-Bike-Pakistan-630x360.jpg</filename>
+	<path>C:\helmet\6cf83dec-08f4-4979-a669-361e1b64a475___Girl-On-Bike-Pakistan-630x360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>30</ymin>
+			<xmax>311</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

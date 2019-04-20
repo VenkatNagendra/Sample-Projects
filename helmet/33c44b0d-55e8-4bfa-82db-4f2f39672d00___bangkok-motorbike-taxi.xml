@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>33c44b0d-55e8-4bfa-82db-4f2f39672d00___bangkok-motorbike-taxi.jpg</filename>
+	<path>C:\helmet\33c44b0d-55e8-4bfa-82db-4f2f39672d00___bangkok-motorbike-taxi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>5</ymin>
+			<xmax>420</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

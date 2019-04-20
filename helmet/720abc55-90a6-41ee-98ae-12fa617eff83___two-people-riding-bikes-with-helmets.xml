@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>720abc55-90a6-41ee-98ae-12fa617eff83___two-people-riding-bikes-with-helmets.jpg</filename>
+	<path>C:\helmet\720abc55-90a6-41ee-98ae-12fa617eff83___two-people-riding-bikes-with-helmets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>582</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>3</ymin>
+			<xmax>432</xmax>
+			<ymax>101</ymax>
+		</bndbox>
+	</object>
+</annotation>

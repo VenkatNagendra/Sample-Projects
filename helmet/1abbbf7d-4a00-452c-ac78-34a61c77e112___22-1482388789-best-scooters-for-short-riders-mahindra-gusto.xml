@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>1abbbf7d-4a00-452c-ac78-34a61c77e112___22-1482388789-best-scooters-for-short-riders-mahindra-gusto.jpg</filename>
+	<path>C:\helmet\1abbbf7d-4a00-452c-ac78-34a61c77e112___22-1482388789-best-scooters-for-short-riders-mahindra-gusto.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>34</ymin>
+			<xmax>351</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

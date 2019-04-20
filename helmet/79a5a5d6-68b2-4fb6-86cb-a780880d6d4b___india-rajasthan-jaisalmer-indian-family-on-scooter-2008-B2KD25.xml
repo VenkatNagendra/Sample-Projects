@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>79a5a5d6-68b2-4fb6-86cb-a780880d6d4b___india-rajasthan-jaisalmer-indian-family-on-scooter-2008-B2KD25.jpg</filename>
+	<path>C:\helmet\79a5a5d6-68b2-4fb6-86cb-a780880d6d4b___india-rajasthan-jaisalmer-indian-family-on-scooter-2008-B2KD25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>597</xmin>
+			<ymin>152</ymin>
+			<xmax>788</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

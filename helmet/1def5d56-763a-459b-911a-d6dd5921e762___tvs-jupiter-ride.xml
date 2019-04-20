@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>1def5d56-763a-459b-911a-d6dd5921e762___tvs-jupiter-ride.jpg</filename>
+	<path>C:\helmet\1def5d56-763a-459b-911a-d6dd5921e762___tvs-jupiter-ride.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>8</ymin>
+			<xmax>519</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

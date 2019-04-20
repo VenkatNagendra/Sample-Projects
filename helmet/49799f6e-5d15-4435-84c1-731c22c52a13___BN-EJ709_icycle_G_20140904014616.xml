@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>49799f6e-5d15-4435-84c1-731c22c52a13___BN-EJ709_icycle_G_20140904014616.jpg</filename>
+	<path>C:\helmet\49799f6e-5d15-4435-84c1-731c22c52a13___BN-EJ709_icycle_G_20140904014616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>553</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>101</ymin>
+			<xmax>304</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

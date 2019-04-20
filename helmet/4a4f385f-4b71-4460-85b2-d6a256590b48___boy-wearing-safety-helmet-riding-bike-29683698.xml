@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>4a4f385f-4b71-4460-85b2-d6a256590b48___boy-wearing-safety-helmet-riding-bike-29683698.jpg</filename>
+	<path>C:\helmet\4a4f385f-4b71-4460-85b2-d6a256590b48___boy-wearing-safety-helmet-riding-bike-29683698.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>125</ymin>
+			<xmax>369</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet_image</folder>
+	<filename>frame1004.5 sec.png</filename>
+	<path>E:/helmet_image/frame1004.5 sec.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1761</xmin>
+			<ymin>789</ymin>
+			<xmax>1861</xmax>
+			<ymax>905</ymax>
+		</bndbox>
+	</object>
+</annotation>

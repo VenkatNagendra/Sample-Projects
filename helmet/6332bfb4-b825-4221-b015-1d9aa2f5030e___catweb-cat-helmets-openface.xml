@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>6332bfb4-b825-4221-b015-1d9aa2f5030e___catweb-cat-helmets-openface.jpg</filename>
+	<path>C:\helmet\6332bfb4-b825-4221-b015-1d9aa2f5030e___catweb-cat-helmets-openface.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>314</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>9</ymin>
+			<xmax>219</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>

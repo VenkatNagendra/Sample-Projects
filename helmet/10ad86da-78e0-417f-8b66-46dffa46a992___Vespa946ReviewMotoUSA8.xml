@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>10ad86da-78e0-417f-8b66-46dffa46a992___Vespa946ReviewMotoUSA8.jpg</filename>
+	<path>C:\helmet\10ad86da-78e0-417f-8b66-46dffa46a992___Vespa946ReviewMotoUSA8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>31</ymin>
+			<xmax>791</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

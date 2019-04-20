@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bikershelmet</folder>
+	<filename>P00000028.jpg</filename>
+	<path>C:\Users\soura\Acadgild_Data_Science\FastAI2019\helmet\class\bikershelmet\P00000028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>10</ymin>
+			<xmax>930</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>

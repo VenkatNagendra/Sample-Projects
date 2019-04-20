@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>dd898a69-635d-40b9-923d-466c162d789d___riding_w_open_face_helmet.png</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\dd898a69-635d-40b9-923d-466c162d789d___riding_w_open_face_helmet.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>26</ymin>
+			<xmax>368</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

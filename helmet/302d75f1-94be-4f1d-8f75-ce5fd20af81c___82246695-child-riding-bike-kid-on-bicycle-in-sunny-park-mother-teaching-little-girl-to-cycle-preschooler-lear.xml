@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>302d75f1-94be-4f1d-8f75-ce5fd20af81c___82246695-child-riding-bike-kid-on-bicycle-in-sunny-park-mother-teaching-little-girl-to-cycle-preschooler-lear.jpg</filename>
+	<path>C:\helmet\302d75f1-94be-4f1d-8f75-ce5fd20af81c___82246695-child-riding-bike-kid-on-bicycle-in-sunny-park-mother-teaching-little-girl-to-cycle-preschooler-lear.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>410</ymin>
+			<xmax>383</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

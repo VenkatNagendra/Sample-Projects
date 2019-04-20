@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>f6a73099-bfa0-4931-87bd-5fdf38f18118___indiaan-motorcycle-sunglasses-640x0-720x720.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\f6a73099-bfa0-4931-87bd-5fdf38f18118___indiaan-motorcycle-sunglasses-640x0-720x720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>17</ymin>
+			<xmax>404</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

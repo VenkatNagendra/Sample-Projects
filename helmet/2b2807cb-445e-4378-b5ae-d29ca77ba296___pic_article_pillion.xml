@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>2b2807cb-445e-4378-b5ae-d29ca77ba296___pic_article_pillion.jpg</filename>
+	<path>C:\helmet\2b2807cb-445e-4378-b5ae-d29ca77ba296___pic_article_pillion.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>110</ymin>
+			<xmax>355</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

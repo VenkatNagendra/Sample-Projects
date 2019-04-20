@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>cd035d06-139e-4981-9b9c-a681d40401a1___girl-end-bike-stock-picture-481879.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\cd035d06-139e-4981-9b9c-a681d40401a1___girl-end-bike-stock-picture-481879.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>869</width>
+		<height>1360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>35</ymin>
+			<xmax>755</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

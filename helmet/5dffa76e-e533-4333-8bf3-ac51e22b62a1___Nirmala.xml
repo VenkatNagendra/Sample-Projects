@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>5dffa76e-e533-4333-8bf3-ac51e22b62a1___Nirmala.jpg</filename>
+	<path>C:\helmet\5dffa76e-e533-4333-8bf3-ac51e22b62a1___Nirmala.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>17</ymin>
+			<xmax>379</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

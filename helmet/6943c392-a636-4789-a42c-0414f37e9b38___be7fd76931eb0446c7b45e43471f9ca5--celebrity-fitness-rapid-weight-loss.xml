@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>6943c392-a636-4789-a42c-0414f37e9b38___be7fd76931eb0446c7b45e43471f9ca5--celebrity-fitness-rapid-weight-loss.jpg</filename>
+	<path>C:\helmet\6943c392-a636-4789-a42c-0414f37e9b38___be7fd76931eb0446c7b45e43471f9ca5--celebrity-fitness-rapid-weight-loss.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>4</ymin>
+			<xmax>174</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

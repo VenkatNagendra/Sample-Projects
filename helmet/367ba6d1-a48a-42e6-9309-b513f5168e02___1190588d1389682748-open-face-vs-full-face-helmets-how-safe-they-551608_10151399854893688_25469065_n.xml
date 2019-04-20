@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>367ba6d1-a48a-42e6-9309-b513f5168e02___1190588d1389682748-open-face-vs-full-face-helmets-how-safe-they-551608_10151399854893688_25469065_n.jpg</filename>
+	<path>C:\helmet\367ba6d1-a48a-42e6-9309-b513f5168e02___1190588d1389682748-open-face-vs-full-face-helmets-how-safe-they-551608_10151399854893688_25469065_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>10</ymin>
+			<xmax>207</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

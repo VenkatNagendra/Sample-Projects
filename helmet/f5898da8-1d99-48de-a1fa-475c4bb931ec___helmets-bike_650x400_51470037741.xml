@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>f5898da8-1d99-48de-a1fa-475c4bb931ec___helmets-bike_650x400_51470037741.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\f5898da8-1d99-48de-a1fa-475c4bb931ec___helmets-bike_650x400_51470037741.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>23</ymin>
+			<xmax>434</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

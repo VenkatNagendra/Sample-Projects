@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>ecfe6e91-5838-43c1-b015-24ffb6e15037___2015_09_21_Climate_Ride_NORTHEAST_2015_Day_5_0720.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\ecfe6e91-5838-43c1-b015-24ffb6e15037___2015_09_21_Climate_Ride_NORTHEAST_2015_Day_5_0720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>72</ymin>
+			<xmax>352</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

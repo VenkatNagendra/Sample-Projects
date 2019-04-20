@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>d0128596-2c1e-4bd6-822a-7578250e2489___82969900-city-night-bicycle-ride-girls-wearing-bicycle-helmet-nightlife-and-passer-people-in-city-background-.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\d0128596-2c1e-4bd6-822a-7578250e2489___82969900-city-night-bicycle-ride-girls-wearing-bicycle-helmet-nightlife-and-passer-people-in-city-background-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>868</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>100</ymin>
+			<xmax>468</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>ff855f8e-e18c-4f9d-9cd0-29d1dbe5b7f7___Honda-Navi-Road-Test-Review-Report-Joshua-David-Luther--Photography-Afsar-Baig-2-31.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\ff855f8e-e18c-4f9d-9cd0-29d1dbe5b7f7___Honda-Navi-Road-Test-Review-Report-Joshua-David-Luther--Photography-Afsar-Baig-2-31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>20</ymin>
+			<xmax>409</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

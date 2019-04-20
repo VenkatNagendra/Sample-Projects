@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>1b7a2264-9c51-48b1-9cc3-39e0c980e0ca___Gul-Panag-with-her-Royal-Enfield-Bullet-Electra-350-CI.jpg</filename>
+	<path>C:\helmet\1b7a2264-9c51-48b1-9cc3-39e0c980e0ca___Gul-Panag-with-her-Royal-Enfield-Bullet-Electra-350-CI.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>47</ymin>
+			<xmax>330</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>0996bf7f-2764-4b8f-b863-bdc852a21c6c___yamaha-xmax-125-rider-girl-city.jpg</filename>
+	<path>C:\helmet\0996bf7f-2764-4b8f-b863-bdc852a21c6c___yamaha-xmax-125-rider-girl-city.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1335</width>
+		<height>579</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>600</xmin>
+			<ymin>2</ymin>
+			<xmax>713</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

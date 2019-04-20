@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>74ff972f-d20a-49a1-bd51-24a879428da6___58947749-cute-girl-wearing-safety-helmet-riding-her-tricycle-in-sunny-summer-park-kids-ride-bicycle-first-bik.jpg</filename>
+	<path>C:\helmet\74ff972f-d20a-49a1-bd51-24a879428da6___58947749-cute-girl-wearing-safety-helmet-riding-her-tricycle-in-sunny-summer-park-kids-ride-bicycle-first-bik.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>132</ymin>
+			<xmax>796</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

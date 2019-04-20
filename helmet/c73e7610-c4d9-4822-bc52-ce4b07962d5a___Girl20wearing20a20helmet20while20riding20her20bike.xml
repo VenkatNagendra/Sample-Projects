@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>c73e7610-c4d9-4822-bc52-ce4b07962d5a___Girl20wearing20a20helmet20while20riding20her20bike.png</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\c73e7610-c4d9-4822-bc52-ce4b07962d5a___Girl20wearing20a20helmet20while20riding20her20bike.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>9</ymin>
+			<xmax>144</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>

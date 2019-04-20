@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>60745cf7-99e5-4de1-a4b1-394aa8928074___TVS-Scooty-Zest-Test-Ride-Review.jpg</filename>
+	<path>C:\helmet\60745cf7-99e5-4de1-a4b1-394aa8928074___TVS-Scooty-Zest-Test-Ride-Review.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>52</ymin>
+			<xmax>481</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

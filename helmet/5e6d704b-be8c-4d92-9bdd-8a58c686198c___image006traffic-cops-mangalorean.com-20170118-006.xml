@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>5e6d704b-be8c-4d92-9bdd-8a58c686198c___image006traffic-cops-mangalorean.com-20170118-006.jpg</filename>
+	<path>C:\helmet\5e6d704b-be8c-4d92-9bdd-8a58c686198c___image006traffic-cops-mangalorean.com-20170118-006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>177</ymin>
+			<xmax>546</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

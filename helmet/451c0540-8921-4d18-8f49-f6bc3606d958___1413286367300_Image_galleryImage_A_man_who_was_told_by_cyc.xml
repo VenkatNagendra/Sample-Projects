@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>451c0540-8921-4d18-8f49-f6bc3606d958___1413286367300_Image_galleryImage_A_man_who_was_told_by_cyc.JPG</filename>
+	<path>C:\helmet\451c0540-8921-4d18-8f49-f6bc3606d958___1413286367300_Image_galleryImage_A_man_who_was_told_by_cyc.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>61</ymin>
+			<xmax>353</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

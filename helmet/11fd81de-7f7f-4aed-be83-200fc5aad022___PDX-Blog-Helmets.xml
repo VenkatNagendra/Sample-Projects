@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>11fd81de-7f7f-4aed-be83-200fc5aad022___PDX-Blog-Helmets.jpg</filename>
+	<path>C:\helmet\11fd81de-7f7f-4aed-be83-200fc5aad022___PDX-Blog-Helmets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>41</ymin>
+			<xmax>482</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+</annotation>

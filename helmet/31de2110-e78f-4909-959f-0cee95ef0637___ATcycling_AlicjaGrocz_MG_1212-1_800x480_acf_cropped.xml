@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>31de2110-e78f-4909-959f-0cee95ef0637___ATcycling_AlicjaGrocz_MG_1212-1_800x480_acf_cropped.jpg</filename>
+	<path>C:\helmet\31de2110-e78f-4909-959f-0cee95ef0637___ATcycling_AlicjaGrocz_MG_1212-1_800x480_acf_cropped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>135</ymin>
+			<xmax>146</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

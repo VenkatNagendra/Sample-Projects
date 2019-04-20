@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>5b5e1d6b-a4ed-4d6c-b97b-ff4e2edcc5bb___tvs-ntorq-125-scooter-first-ride-review-24_720x540.jpg</filename>
+	<path>C:\helmet\5b5e1d6b-a4ed-4d6c-b97b-ff4e2edcc5bb___tvs-ntorq-125-scooter-first-ride-review-24_720x540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>96</ymin>
+			<xmax>425</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

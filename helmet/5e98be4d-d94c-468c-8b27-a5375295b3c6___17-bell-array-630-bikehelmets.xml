@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>5e98be4d-d94c-468c-8b27-a5375295b3c6___17-bell-array-630-bikehelmets.jpg</filename>
+	<path>C:\helmet\5e98be4d-d94c-468c-8b27-a5375295b3c6___17-bell-array-630-bikehelmets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>9</ymin>
+			<xmax>404</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

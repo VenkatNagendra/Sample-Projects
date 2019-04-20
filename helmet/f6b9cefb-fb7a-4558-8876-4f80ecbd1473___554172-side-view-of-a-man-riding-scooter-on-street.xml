@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>f6b9cefb-fb7a-4558-8876-4f80ecbd1473___554172-side-view-of-a-man-riding-scooter-on-street.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\f6b9cefb-fb7a-4558-8876-4f80ecbd1473___554172-side-view-of-a-man-riding-scooter-on-street.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>539</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>7</ymin>
+			<xmax>228</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>

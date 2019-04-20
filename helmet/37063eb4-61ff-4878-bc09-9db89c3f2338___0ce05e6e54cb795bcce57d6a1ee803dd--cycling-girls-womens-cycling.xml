@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>37063eb4-61ff-4878-bc09-9db89c3f2338___0ce05e6e54cb795bcce57d6a1ee803dd--cycling-girls-womens-cycling.jpg</filename>
+	<path>C:\helmet\37063eb4-61ff-4878-bc09-9db89c3f2338___0ce05e6e54cb795bcce57d6a1ee803dd--cycling-girls-womens-cycling.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>8</ymin>
+			<xmax>317</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

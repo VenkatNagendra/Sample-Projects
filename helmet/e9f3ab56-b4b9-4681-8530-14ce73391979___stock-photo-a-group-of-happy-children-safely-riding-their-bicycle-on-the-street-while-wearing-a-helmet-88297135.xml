@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>e9f3ab56-b4b9-4681-8530-14ce73391979___stock-photo-a-group-of-happy-children-safely-riding-their-bicycle-on-the-street-while-wearing-a-helmet-88297135.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\e9f3ab56-b4b9-4681-8530-14ce73391979___stock-photo-a-group-of-happy-children-safely-riding-their-bicycle-on-the-street-while-wearing-a-helmet-88297135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>65</ymin>
+			<xmax>155</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

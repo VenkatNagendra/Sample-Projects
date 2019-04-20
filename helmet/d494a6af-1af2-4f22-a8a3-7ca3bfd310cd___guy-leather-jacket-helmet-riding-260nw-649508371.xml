@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>d494a6af-1af2-4f22-a8a3-7ca3bfd310cd___guy-leather-jacket-helmet-riding-260nw-649508371.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\d494a6af-1af2-4f22-a8a3-7ca3bfd310cd___guy-leather-jacket-helmet-riding-260nw-649508371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>27</ymin>
+			<xmax>268</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>

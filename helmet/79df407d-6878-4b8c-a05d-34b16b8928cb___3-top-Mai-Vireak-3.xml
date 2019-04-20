@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>79df407d-6878-4b8c-a05d-34b16b8928cb___3-top-Mai-Vireak-3.jpg</filename>
+	<path>C:\helmet\79df407d-6878-4b8c-a05d-34b16b8928cb___3-top-Mai-Vireak-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>14</ymin>
+			<xmax>379</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

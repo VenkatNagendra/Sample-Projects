@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>1478eb32-e595-454c-8c38-d336b99c7885___VEspa--621x414.jpg</filename>
+	<path>C:\helmet\1478eb32-e595-454c-8c38-d336b99c7885___VEspa--621x414.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>621</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>11</ymin>
+			<xmax>394</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

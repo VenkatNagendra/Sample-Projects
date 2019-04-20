@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>40571deb-e8ca-4f7c-ada3-5d4754ef7371___best-bicycle-helmets.jpg</filename>
+	<path>C:\helmet\40571deb-e8ca-4f7c-ada3-5d4754ef7371___best-bicycle-helmets.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>87</ymin>
+			<xmax>580</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

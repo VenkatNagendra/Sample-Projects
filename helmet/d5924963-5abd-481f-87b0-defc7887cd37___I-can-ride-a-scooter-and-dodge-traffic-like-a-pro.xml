@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>d5924963-5abd-481f-87b0-defc7887cd37___I-can-ride-a-scooter-and-dodge-traffic-like-a-pro.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\d5924963-5abd-481f-87b0-defc7887cd37___I-can-ride-a-scooter-and-dodge-traffic-like-a-pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>20</ymin>
+			<xmax>255</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

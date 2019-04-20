@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>c5ab454a-182b-4919-a7ef-c814177a6298___Gene_hackman.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\c5ab454a-182b-4919-a7ef-c814177a6298___Gene_hackman.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>14</ymin>
+			<xmax>148</xmax>
+			<ymax>27</ymax>
+		</bndbox>
+	</object>
+</annotation>

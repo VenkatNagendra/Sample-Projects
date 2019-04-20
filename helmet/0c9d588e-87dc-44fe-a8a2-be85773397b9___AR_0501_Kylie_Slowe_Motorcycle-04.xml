@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>0c9d588e-87dc-44fe-a8a2-be85773397b9___AR_0501_Kylie_Slowe_Motorcycle-04.jpg</filename>
+	<path>C:\helmet\0c9d588e-87dc-44fe-a8a2-be85773397b9___AR_0501_Kylie_Slowe_Motorcycle-04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymin>258</ymin>
+			<xmax>839</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

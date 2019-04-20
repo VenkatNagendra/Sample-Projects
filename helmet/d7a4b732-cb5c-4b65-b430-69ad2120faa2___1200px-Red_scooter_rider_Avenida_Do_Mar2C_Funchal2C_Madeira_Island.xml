@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>d7a4b732-cb5c-4b65-b430-69ad2120faa2___1200px-Red_scooter_rider_Avenida_Do_Mar2C_Funchal2C_Madeira_Island.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\d7a4b732-cb5c-4b65-b430-69ad2120faa2___1200px-Red_scooter_rider_Avenida_Do_Mar2C_Funchal2C_Madeira_Island.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>195</ymin>
+			<xmax>727</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

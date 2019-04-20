@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>f5a9a6b4-edfa-43b4-a5c7-2157c0372e2c___1055029d1361686998-guide-owning-harley-davidson-india-551608_10151399854893688_25469065_n.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\f5a9a6b4-edfa-43b4-a5c7-2157c0372e2c___1055029d1361686998-guide-owning-harley-davidson-india-551608_10151399854893688_25469065_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>655</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>22</ymin>
+			<xmax>382</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>image111322.442854_29032019.png</filename>
+	<path>C:\helmet\image111322.442854_29032019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>85</ymin>
+			<xmax>351</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

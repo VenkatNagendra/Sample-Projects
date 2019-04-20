@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>fb0663fb-8d96-4af0-80b1-f23da117ea39___Scooter-ride.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\fb0663fb-8d96-4af0-80b1-f23da117ea39___Scooter-ride.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>18</ymin>
+			<xmax>253</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

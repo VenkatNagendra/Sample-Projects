@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>05e9c3ae-53f9-4235-8bdb-0a567bddc514___20171110041912_Honda-Grazia-review-1.jpg</filename>
+	<path>C:\helmet\05e9c3ae-53f9-4235-8bdb-0a567bddc514___20171110041912_Honda-Grazia-review-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>872</width>
+		<height>578</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>8</ymin>
+			<xmax>403</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

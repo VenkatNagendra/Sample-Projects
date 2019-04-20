@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>5f03edce-e5c7-422a-ac81-09355cea4213___1342698d1424681724t-report-pics-india-bike-week-2015-goa-27ibwriders.jpg</filename>
+	<path>C:\helmet\5f03edce-e5c7-422a-ac81-09355cea4213___1342698d1424681724t-report-pics-india-bike-week-2015-goa-27ibwriders.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>802</width>
+		<height>547</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>93</ymin>
+			<xmax>499</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

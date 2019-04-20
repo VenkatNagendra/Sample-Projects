@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>cc9d1597-550c-4564-87e2-da3495940229___53f2417ec07a80388e0003e5_cities-need-big-changes-to-become-bike-friendly_5134405164_7b5b80ea07_b.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\cc9d1597-550c-4564-87e2-da3495940229___53f2417ec07a80388e0003e5_cities-need-big-changes-to-become-bike-friendly_5134405164_7b5b80ea07_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>210</ymin>
+			<xmax>273</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

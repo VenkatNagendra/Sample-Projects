@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>7cbd5149-aa69-4d35-9608-3f6e29e82d6e___KTM-Duke-teambhp-e1457698112922.jpg</filename>
+	<path>C:\helmet\7cbd5149-aa69-4d35-9608-3f6e29e82d6e___KTM-Duke-teambhp-e1457698112922.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>224</ymin>
+			<xmax>345</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

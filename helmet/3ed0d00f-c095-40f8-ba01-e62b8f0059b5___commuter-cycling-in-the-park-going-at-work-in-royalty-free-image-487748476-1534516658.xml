@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>3ed0d00f-c095-40f8-ba01-e62b8f0059b5___commuter-cycling-in-the-park-going-at-work-in-royalty-free-image-487748476-1534516658.jpg</filename>
+	<path>C:\helmet\3ed0d00f-c095-40f8-ba01-e62b8f0059b5___commuter-cycling-in-the-park-going-at-work-in-royalty-free-image-487748476-1534516658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2121</width>
+		<height>1414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1089</xmin>
+			<ymin>295</ymin>
+			<xmax>1255</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

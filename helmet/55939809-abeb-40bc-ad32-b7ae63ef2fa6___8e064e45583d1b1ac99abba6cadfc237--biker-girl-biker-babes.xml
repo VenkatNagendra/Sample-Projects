@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>55939809-abeb-40bc-ad32-b7ae63ef2fa6___8e064e45583d1b1ac99abba6cadfc237--biker-girl-biker-babes.jpg</filename>
+	<path>C:\helmet\55939809-abeb-40bc-ad32-b7ae63ef2fa6___8e064e45583d1b1ac99abba6cadfc237--biker-girl-biker-babes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>15</ymin>
+			<xmax>239</xmax>
+			<ymax>128</ymax>
+		</bndbox>
+	</object>
+</annotation>

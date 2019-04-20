@@ -126,5 +126,5 @@ def writeLicensePlateCharsOnImage(imgOriginalScene, licPlate):
 
 
 if __name__ == '__main__':
-    main('image.jpg',True)
+    main('images.jpg',True)
     

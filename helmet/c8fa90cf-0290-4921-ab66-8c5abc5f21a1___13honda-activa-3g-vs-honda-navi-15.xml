@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>c8fa90cf-0290-4921-ab66-8c5abc5f21a1___13honda-activa-3g-vs-honda-navi-15.jpg</filename>
+	<path>C:\Users\lokeshwaran\Desktop\to\img\c8fa90cf-0290-4921-ab66-8c5abc5f21a1___13honda-activa-3g-vs-honda-navi-15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>670</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>37</ymin>
+			<xmax>354</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

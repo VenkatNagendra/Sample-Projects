@@ -1,0 +1,26 @@
+<annotation>
+	<folder>helmet</folder>
+	<filename>66ed205e-3eb3-476a-8dcb-afc22725c701___article-2730555-20AC73C200000578-736_634x587.jpg</filename>
+	<path>C:\helmet\66ed205e-3eb3-476a-8dcb-afc22725c701___article-2730555-20AC73C200000578-736_634x587.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with_helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>24</ymin>
+			<xmax>481</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+</annotation>
